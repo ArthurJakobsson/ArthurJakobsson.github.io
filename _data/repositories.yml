@@ -1,12 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ArthurJakobsson
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ArthurJakobsson/15122_Bootcamp
+  - ArthurJakobsson/Rat_Population_DataAnalysis
+  - ArthurJakobsson/ArthurJakobsson.github.io
+  - ArthurJakobsson/AmberSolutionDatabaseandRouterAPI
+  - ArthurJakobsson/EdgeBlurDetectionProject
+
+
+  #- cmu15122/BootcampDev
+  #- Rishi-V/ml-mapf
