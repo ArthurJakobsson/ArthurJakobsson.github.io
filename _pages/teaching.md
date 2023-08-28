@@ -26,33 +26,34 @@ as a reference for students.
 
 <details>
 <summary>Debugging Fundementals</summary>
-  <!--All you need is a blank line-->
 
-  <br /> &ensp; details here <br /> <br />
+  <br />  Covered the core tools needed to become a successful programmer. Students were given practice to learn to use contracts, write good test cases and efficiently use print statements with targetted examples. <br /> <br />
 
   <embed src="/assets/pdf/debugging_fundementals_presentation.pdf" type="application/pdf" width="80%" height=500>
-</details>
+</details> <br />
 
 <details>
 <summary>Memory & Pointers</summary>
 
-  <br /> &ensp; details here <br /> <br />
+  <br />  Discussed and provided practice for conceptual frameworks regarding memory and pointers in C. <br /> <br />
 
   <embed src="/assets/pdf/memory_&_pointers_presentation.pdf" type="application/pdf" width="80%" height=500>
-</details>
+</details> <br />
 
 <details>
 <summary>Valgrind (memory)</summary>
 
-  <br /> &ensp; details here <br /> <br />
+  <br />  Re-introduced and offered examples of using valgrind as a memory management tool and how to efficiently understand and fix valgrind comments and errors. <br /> <br />
 
   <embed src="/assets/pdf/valgrind_presentation.pdf" type="application/pdf" width="80%" height=500>
-</details>
+</details> <br />
 
 <details>
 <summary>Debugging in C (Pilot)</summary>
 
-  <br /> &ensp; description here (talk about how it's pilot) <br /> <br />
+  <br />  Pilot bootcamp that served as an amalgamation of fundementals and memory tools. This bootcamp provided a great understanding of the difficulty of examples, engagement to expect and manner in which we presented information to be most useful. We revised both materials and examples following this bootcamp which was proven to give better experiences for students during the following semester. The code for this bootcamp is available on my repositories page. <br /> <br />
 
   <embed src="/assets/pdf/C_debugging_presentation.pdf" type="application/pdf" width="80%" height=500>
-</details>
+</details> <br />
+
+We plan on creating a few more bootcamps such as one targetting proofs and debugging when it comes to more complex data structures.
