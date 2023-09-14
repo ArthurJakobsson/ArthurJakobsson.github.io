@@ -44,11 +44,19 @@
     },
     {
       "name": "Computer Science and Engineering, NYU",
-      "position": " Research Intern",
+      "position": "Research Intern",
       "url": "https://cyber.nyu.edu/",
       "startDate": "2020-06",
       "endDate": "2020-08",
       "summary": "Identified manipulated images and false statements made by politicians with Reverse Image Search and drafted candidate algorithm to improve Reverse Image Search, specifically for robustness against manipulations."
+    },
+    {
+      "name": "Amber Semi, Inc",
+      "position": "Intern",
+      "url": "https://ambersi.com/",
+      "startDate": "2019-06",
+      "endDate": "2019-08",
+      "summary": "Leveraged existing router network infrastructure, created method and proof-of-concept to associate user MAC addresses with user contact information and web-browsing cookies to improve personalization and co-developed patent for Privacy and the Management of Permissions (patent under application)."
     }
   ],
   "volunteer": [],
