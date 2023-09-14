@@ -1,9 +1,9 @@
 ---
 layout: page
-title: projects
+title: projects (Website In Progress)
 permalink: /projects/
 description: Haven't updated this! I hope to put my photography and other fun stuff here.
-nav: true
+nav: false
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
