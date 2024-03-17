@@ -41,6 +41,16 @@ as a reference for students.
 </details> <br />
 
 <details>
+<summary>Debugging Data Structures</summary>
+
+  <br />  Discussed methods for debugging more complex structures and writing advanced test cases. <br /> <br />
+
+  <embed src="/assets/pdf/Debugging_Data_Structures.pdf" type="application/pdf" width="80%" height=500>
+</details> <br />
+
+
+
+<details>
 <summary>Valgrind (memory)</summary>
 
   <br />  Re-introduced and offered examples of using valgrind as a memory management tool and how to efficiently understand and fix valgrind comments and errors. <br /> <br />

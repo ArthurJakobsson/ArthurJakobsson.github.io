@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a junior at Carnegie Mellon University, pursuing Statistics and Machine Learning with a minor in Computer Science. I am interested in computer vision, computer security and robotics! I'm involved in research on detecting deepfakes and robotics path planning, both of which have a paper in the works.
+I'm a junior at Carnegie Mellon University, pursuing Statistics and Machine Learning with a minor in Computer Science. I am interested in computer vision, robotics and computer security! I'm involved in research on image segmentation in few-shot environments and ML-based robotics path planning.
 
 I love birdwatching, wildlife photography, biking, and badminton.
 

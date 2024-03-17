@@ -24,7 +24,18 @@
   },
   "work": [
     {
-      "name": "Search Based Pathfinding Lab (SBPL) @ Carnegie Mellon Robotics Institute",
+      "name": "Biorobotics Lab @ CMU RI (led by Howie Choset)",
+      "position": "Researcher",
+      "url": "https://biorobotics.ri.cmu.edu/index.php",
+      "startDate": "2023-08",
+      "endDate": "",
+      "summary": "Building ML system for Pipe Mapping robot to detect and segment metal anomalies. Currently using generative methods to create a more diverse training set for segmentation methods.",
+      "highlights": [
+        "Computer Vision and Robotics", "GAN + Diffusion", "Image Segmentation and Generation"
+      ]
+    },
+    {
+      "name": "Search Based Pathfinding Lab @ CMU RI (led by Max Likhachev)",
       "position": "Researcher",
       "url": "https://www.ri.cmu.edu/robotics-groups/search-based-planning-laboratory/",
       "startDate": "2023-05-26",
@@ -35,7 +46,7 @@
       ]
     },
     {
-      "name": "New York University's Center for Cybersecurity",
+      "name": "New York University's Center for Cybersecurity (w/ Nasir Memon)",
       "position": " Research Scholar",
       "url": "https://cyber.nyu.edu/",
       "startDate": "2022-06-01",
@@ -100,7 +111,22 @@
     }
   ],
   "certificates": [],
-  "publications": [],
+  "publications": [
+    {
+    "name": "Improving Learnt Local MAPF Policies with Heuristic Search",
+    "publisher": "International Conference on Automated Planning and Scheduling (ICAPS)",
+    "releaseDate": "2024-02-12",
+    "url": "https://openreview.net/forum?id=6JEBeiztNT",
+    "summary": "We improve a ML local policy by using heuristic search methods on the output probability distribution to resolve deadlocks and enable full horizon planning for Multi Agent Planning (MAPF). We show several model-agnostic ways to use heuristic search with ML that significantly improves the local ML policy's success rate and scalability. To our best knowledge, we demonstrate the first time ML-based MAPF approaches have scaled to similar high congestion as state-of-the-art heuristic search methods."
+  },
+  {
+    "name": "AI-assisted Tagging of Deepfake Audio Calls using Challenge-Response",
+    "publisher": "arXiv (submitted to SOUPS 2024)",
+    "releaseDate": "2024-02-28",
+    "url": "https://arxiv.org/abs/2402.18085",
+    "summary": "Scammers are aggressively leveraging AI voice-cloning technology for social engineering attacks, a situation significantly worsened by the advent of audio Real-time Deepfakes (RTDFs). RTDFs can clone a target's voice in real-time over phone calls, making these interactions highly interactive and thus far more convincing. Existing literature has largely been ineffective against RTDF threats. We introduce a robust challenge-response-based method to detect deepfake audio calls with high accuracy."
+  }
+  ],
   "skills": [],
   "languages": [
     {
