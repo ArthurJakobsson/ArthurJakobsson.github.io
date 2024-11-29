@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cmu.edu/'>Carnegie Mellon University</a>. Birds, photography, and computer science.
+subtitle: <a href='https://www.cmu.edu/'>Carnegie Mellon University</a>. Birds, photography, and computer science
 
 profile:
   align: center
