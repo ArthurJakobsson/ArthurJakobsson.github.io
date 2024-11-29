@@ -24,6 +24,17 @@
   },
   "work": [
     {
+      "name": "Momentum Lab @ CMU RI (led by Jeff Ichnowski)",
+      "position": "Researcher",
+      "url": "https://www.ri.cmu.edu/robotics-groups/momentum-robotics-lab/",
+      "startDate": "2024-06",
+      "endDate": "",
+      "summary": "Understanding textile deformation using ML for use in dynamic manipulation such as flinging and flattening.",
+      "highlights": [
+        "Computer Vision and Robotics", "Manipulation"
+      ]
+    },
+    {
       "name": "Biorobotics Lab @ CMU RI (led by Howie Choset)",
       "position": "Researcher",
       "url": "https://biorobotics.ri.cmu.edu/index.php",
@@ -38,7 +49,7 @@
       "name": "Search Based Pathfinding Lab @ CMU RI (led by Max Likhachev)",
       "position": "Researcher",
       "url": "https://www.ri.cmu.edu/robotics-groups/search-based-planning-laboratory/",
-      "startDate": "2023-05-26",
+      "startDate": "2023-05",
       "endDate": "",
       "summary": "Researching usability of Machine Learning to generate better and faster results for multi-agent pathfinding questions (e.g. applicable for finding paths for robots in warehouses or self-driving cars).",
       "highlights": [
@@ -99,7 +110,7 @@
   "awards": [
     {
       "title": "Dean's List High Honors",
-      "date": "S22, F23",
+      "date": "S22, F23, S24",
       "awarder": "",
       "summary": ""
     },
@@ -119,8 +130,15 @@
   "certificates": [],
   "publications": [
     {
+    "name": "Work Smarter Not Harder: Simple Imitation Learning with CS-PIBT Outperforms Large Scale Imitation Learning for MAPF",
+    "publisher": "(In subission at) International Conference on Robotics and Automation (ICRA 2025)",
+    "releaseDate": "2024-02-12",
+    "url": "https://arxiv.org/abs/2409.14491",
+    "summary": "We improve a ML local policy by using heuristic search methods on the output probability distribution to resolve deadlocks and enable full horizon planning for Multi Agent Planning (MAPF). We show several model-agnostic ways to use heuristic search with ML that significantly improves the local ML policy's success rate and scalability. To our best knowledge, we demonstrate the first time ML-based MAPF approaches have scaled to similar high congestion as state-of-the-art heuristic search methods."
+  },
+    {
     "name": "Improving Learnt Local MAPF Policies with Heuristic Search",
-    "publisher": "International Conference on Automated Planning and Scheduling (ICAPS)",
+    "publisher": "International Conference on Automated Planning and Scheduling (ICAPS 2024)",
     "releaseDate": "2024-02-12",
     "url": "https://openreview.net/forum?id=6JEBeiztNT",
     "summary": "We improve a ML local policy by using heuristic search methods on the output probability distribution to resolve deadlocks and enable full horizon planning for Multi Agent Planning (MAPF). We show several model-agnostic ways to use heuristic search with ML that significantly improves the local ML policy's success rate and scalability. To our best knowledge, we demonstrate the first time ML-based MAPF approaches have scaled to similar high congestion as state-of-the-art heuristic search methods."
