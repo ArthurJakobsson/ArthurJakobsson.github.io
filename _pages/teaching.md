@@ -12,12 +12,11 @@ nav_order: 5
 I realized there was a need for students to receive assistance with both conceptual and concrete
 skills; specifically debugging as well as memory and proofs were weakpoints for
 students. [Liz Chu](mailto:echu2@andrew.cmu.edu) and I proposed the project and
-we have since fully developed and presented four bootcamps. We hope to observe improvement in
+we have since fully developed and presented five bootcamps. We hope to observe improvement in
 these topics.
 
 More personally, these bootcamps made me realize that I really enjoy the development and the
 process of teaching! They spur me on to pursue a PhD and likely continue in academia afterwards.
-
 
 Below, I show examples of content from the bootcamps. The code for the examples is not
 made public, but I include some of the presentations that we have created.
