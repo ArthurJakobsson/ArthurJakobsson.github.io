@@ -90,9 +90,9 @@
       "studyType": "Undergraduate",
       "startDate": "2021-07-22",
       "endDate": "",
-      "score": "3.52/4 GPA",
+      "score": "3.65/4 QPA",
       "courses": [
-        "Computer Vision (PhD level)", "Visual Learning and Recognition (PhD level)", "Deep Learning (Masters level)" , "Parallel & Sequential Algorithms", "Computer Systems",
+        "Computer Vision (PhD level)", "Visual Learning and Recognition (PhD level)", "Deep Learning (Masters level)", "Parallel & Sequential Algorithms", "Computer Systems",
         "Functional Programming", "Imperative Computation", "Probability and Statistical Inference", "Statistical Graphics and Visualization"
       ]
     },
